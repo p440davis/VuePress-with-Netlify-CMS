@@ -23,6 +23,7 @@
   },
   "homepage": "https://vuepress-template.netlify.com",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.2",
+    "vuepress-theme-base": "^0.2.0"
   }
 }
